@@ -2,18 +2,21 @@
 
 namespace App\Providers;
 
-// use Illuminate\Support\Facades\Gate;
+use App\Models\Team;
+use App\Policies\TeamPolicy;
 use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Gate;
 
 class AuthServiceProvider extends ServiceProvider
 {
     /**
-     * The model to policy mappings for the application.
+     * The policy mappings for the application.
      *
      * @var array<class-string, class-string>
      */
     protected $policies = [
-        //
+        Team::class => TeamPolicy::class,
     ];
 
     /**
@@ -21,6 +24,17 @@ class AuthServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        $this->registerPolicies();
+
+        Auth::viaRequest('admin', function ($request) {
+            $user = $request->user();
+
+            return $user && $user->isAdmin() ? $user : null;
+        });
+
+        Gate::define('admin', function ($user) {
+            return $user->isAdmin();
+        });
         //
     }
 }
