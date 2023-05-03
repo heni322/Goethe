@@ -42,6 +42,17 @@
             }
         }
 
+        @media only screen and (max-device-width: 667px) {
+            .logo3 {
+                width: 100%;
+            }
+
+            .logo4 {
+                width: 100%;
+                margin-left: 40%;
+            }
+        }
+
         @media only screen and (max-device-width: 915px) {
             .aboutM {
                 margin-left: -150%;

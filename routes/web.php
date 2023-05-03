@@ -4,6 +4,7 @@ use App\Http\Controllers\ApplyController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\JobsController;
 use App\Http\Controllers\WebsiteController;
+use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -71,6 +72,9 @@ Route::post('/login', [LoginController::class, 'login']);
 Route::get('/morejob', App\Http\Livewire\JobListing::class)
     ->name('jobs.listing');
 
+Route::get('/foo', function () {
+    Artisan::call('storage:link');
+});
 // Route::post('/applyCrud/create', [ApplyController::class, 'store'])->name('applys.store');
 
 

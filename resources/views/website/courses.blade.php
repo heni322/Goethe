@@ -43,9 +43,9 @@
                      secteurs et dans différents domaines. La formation professionnelle
                      permet de continuer à se former pour acquérir de nouvelles compétence.
                  </div>
-                 <div class="col-lg-6 col-md-12 logo3">
-                     <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" width="700" height="300.01401"
-                         viewBox="0 0 1080 639.01401" xmlns:xlink="http://www.w3.org/1999/xlink">
+                 <div class="col-lg-6 col-md-12">
+                     <svg xmlns="http://www.w3.org/2000/svg" class="logo3" data-name="Layer 1" width="700"
+                         height="300.01401" viewBox="0 0 1080 639.01401" xmlns:xlink="http://www.w3.org/1999/xlink">
                          <path id="a513f258-927a-4de2-b47c-f6d8484aa7b1-222" data-name="Path 103"
                              d="M345.467,477.129l-1.153-.26c31.95834-141.34216,172.44613-230.0153,313.78829-198.057A262.383,262.383,0,0,1,856,476.16893l-1.152.262c-27.208-119.463-131.908-202.9-254.612-202.9C479.14,273.536,371.994,359.159,345.467,477.129Z"
                              transform="translate(-60 -130.493)" fill="#e6e6e6" />

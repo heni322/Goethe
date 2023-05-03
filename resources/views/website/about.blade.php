@@ -50,9 +50,10 @@
         </div>
 
     </div>
-    <div class="col-lg-5 w-50 d-flex justify-content-center mb-5" style="width:100%; margin-left:20%">
-        <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" width="850" height="520.84494" class="travel mb-5"
-            viewBox="0 0 850 520.84494" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <div class="col-lg-5  d-flex justify-content-center mb-5">
+        <svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" width="850" height="520.84494"
+            class="travel mb-5 logo4" style="margin-left:40%" viewBox="0 0 850 520.84494"
+            xmlns:xlink="http://www.w3.org/1999/xlink">
             <path
                 d="M717.33682,462.93546a14.65213,14.65213,0,0,0,11.0391-26.92491L697.2754,400.727,670.97048,406.41l36.99734,36.23808a14.573,14.573,0,0,0,9.36894,20.28732Z"
                 transform="translate(-175 -189.57753)" fill="#a0616a" />

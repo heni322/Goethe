@@ -25,7 +25,7 @@
                 </h6>
             </div>
 
-            <livewire:job-listing :jobs="$jobs" />
+            <x-job-listing :jobs="$jobs" />
 
 
         </div>
