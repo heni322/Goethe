@@ -20,33 +20,35 @@
     <!-- Service Start -->
     <div class="row g-3 container-xxl py-5">
         <div class="text fs-5 container-fluid d-flex justify-content-center">
-            <h1 style="margin-right:10%">Goethe Académie </h1>
-            Est votre meilleur accompagnant tout au long de votre chemin ! Nous
-            offrons une solution unique pour les personnes qui souhaitent poursuivre
-            une carrière professionnelle en Allemagne. Nos consultants experts vous
-            guideront, nos coachs de haut niveau vous prépareront et nos agents
-            qualifiés placeront chacun d’entre vous. adresse Une fois que vous êtes
-            convaincu que vous avez besoin d’une formation soit pour l’apprentissage
-            et l’amélioration de compétences, soit de reconversion de carrière,
-            l’inévitable question « Quelle formation suivre? » va forcément
-            s’imposer. Vous avez besoin d’acquérir de nouvelles compétences pour
-            arracher un emploi? D’évoluer dans votre carrière professionnelle ou
-            vous recherchez à vous réorienter dans un nouveau domaine professionnel.
-            Notre centre de formation propose divers formations dans plusieurs
-            domaines, nos commerciaux vous aideraient à choisir la formation idéale
-            pour vous. Si vous cherchez à acquérir des compétences et améliorer
-            votre CV ou à valider vos connaissances dans un domaine que vous
-            maîtrisez déjà, une formation accélérée certifiée est indispensable.
-            Mais, si vous désirez changer de métier et de domaine, il sera
-            préférable de vous orienter vers une formation accélérée de 3 mois et
-            plus. Si vous ne savez pas trop vers quel métier vous orienter, notre
-            institut vous accompagne a travers de tests d’orientation et de journées
-            portes ouvertes de formation à Sousse. Si vous êtes demandeur d’emploi,
-            vous pouvez visitez notre centre de formation privée, nos commerciaux
-            vous propose une formation professionnelle personnalisée suivant votre
-            profil et vos contraintes. Vous souhaitez accéder à un métier rapidement
-            ? Découvrez nos formations avec un taux de placement important. Nos
-            couvrons tous les types de formation.
+            <h1 style="margin-right:10% " class="col-lg-2 col-md-12">Goethe Académie</h1>
+            <div class="col-lg-10 col-md-12">
+                Est votre meilleur accompagnant tout au long de votre chemin ! Nous
+                offrons une solution unique pour les personnes qui souhaitent poursuivre
+                une carrière professionnelle en Allemagne. Nos consultants experts vous
+                guideront, nos coachs de haut niveau vous prépareront et nos agents
+                qualifiés placeront chacun d’entre vous. adresse Une fois que vous êtes
+                convaincu que vous avez besoin d’une formation soit pour l’apprentissage
+                et l’amélioration de compétences, soit de reconversion de carrière,
+                l’inévitable question « Quelle formation suivre? » va forcément
+                s’imposer. Vous avez besoin d’acquérir de nouvelles compétences pour
+                arracher un emploi? D’évoluer dans votre carrière professionnelle ou
+                vous recherchez à vous réorienter dans un nouveau domaine professionnel.
+                Notre centre de formation propose divers formations dans plusieurs
+                domaines, nos commerciaux vous aideraient à choisir la formation idéale
+                pour vous. Si vous cherchez à acquérir des compétences et améliorer
+                votre CV ou à valider vos connaissances dans un domaine que vous
+                maîtrisez déjà, une formation accélérée certifiée est indispensable.
+                Mais, si vous désirez changer de métier et de domaine, il sera
+                préférable de vous orienter vers une formation accélérée de 3 mois et
+                plus. Si vous ne savez pas trop vers quel métier vous orienter, notre
+                institut vous accompagne a travers de tests d’orientation et de journées
+                portes ouvertes de formation à Sousse. Si vous êtes demandeur d’emploi,
+                vous pouvez visitez notre centre de formation privée, nos commerciaux
+                vous propose une formation professionnelle personnalisée suivant votre
+                profil et vos contraintes. Vous souhaitez accéder à un métier rapidement
+                ? Découvrez nos formations avec un taux de placement important. Nos
+                couvrons tous les types de formation.
+            </div>
         </div>
 
     </div>
@@ -114,8 +116,8 @@
             <path
                 d="M615.328,257.55132H552.749a4.86078,4.86078,0,0,1-4.85528-4.85526V225.72234h0a36.14481,36.14481,0,1,1,72.28961,0v26.97372A4.86078,4.86078,0,0,1,615.328,257.55132Z"
                 transform="translate(-175 -189.57753)" fill="#2f2e41" />
-            <circle cx="591.46588" cy="230.42328" r="26.50011" transform="translate(-69.42256 449.3053) rotate(-61.3368)"
-                fill="#a0616a" />
+            <circle cx="591.46588" cy="230.42328" r="26.50011"
+                transform="translate(-69.42256 449.3053) rotate(-61.3368)" fill="#a0616a" />
             <path
                 d="M628.73431,228.41969H590.46875l-.39252-5.49379-1.96191,5.49379h-5.89209l-.77759-10.88853-3.88855,10.88853H566.15521v-.53947a28.62427,28.62427,0,0,1,28.59192-28.59215h5.395a28.62448,28.62448,0,0,1,28.59216,28.59215Z"
                 transform="translate(-175 -189.57753)" fill="#2f2e41" />
