@@ -108,7 +108,7 @@
                                         <use xlink:href="#banner-11" style="overflow: visible"></use>
                                     </clipPath>
                                     <g style="clip-path: url(#banner-12)">
-                                        <image style="overflow: visible" width="560" height="560" class="w-100"
+                                        <image style="overflow: visible" width="560" height="500" class="w-100"
                                             xlink:href="img/reception.jpg"></image>
                                     </g>
                                 </g>
@@ -276,7 +276,7 @@
                 <div class="row g-3">
                     <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.5s">
                         <a class="position-relative d-block overflow-hidden" href="">
-                            <img class="img-fluid" src="img/recrutement.jpg" alt="" />
+                            <img class="img-fluid" src="img/recrute.jpg" alt="" />
                         </a>
                     </div>
                     <div class="col-lg-6 col-md-12">
