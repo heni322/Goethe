@@ -109,7 +109,7 @@
                                     </clipPath>
                                     <g style="clip-path: url(#banner-12)">
                                         <image style="overflow: visible" width="560" height="560" class="w-100"
-                                            xlink:href="img/pexels-sora-shimazaki-5669603.jpg"></image>
+                                            xlink:href="img/reception.jpg"></image>
                                     </g>
                                 </g>
                             </svg>
