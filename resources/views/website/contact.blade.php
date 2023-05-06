@@ -132,8 +132,8 @@
             .addEventListener("submit", function(event) {
                 event.preventDefault();
                 console.log(event);
-                const serviceID = "service_uk3xjt7";
-                const templateID = "template_v6abmpl";
+                const serviceID = "service_gthctr6";
+                const templateID = "template_3vdr8sd";
                 // send the email here
                 emailjs.sendForm(serviceID, templateID, this).then(
                     (response) => {
