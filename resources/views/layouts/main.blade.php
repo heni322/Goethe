@@ -75,7 +75,7 @@
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
-            background-image: url({{ asset('img/recrutement.jpg') }});
+            background-image: url({{ asset('img/hr-handshaking-successful-candidate-getting-hired-new-job-closeup.jpg') }});
         }
     </style>
     @livewireStyles
