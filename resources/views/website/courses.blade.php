@@ -189,9 +189,10 @@
                              </a>
                          </div>
                          <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.8s">
-                             <a class="position-relative d-block overflow-hidden"
+                             <a class="position-relative d-block overflow-hidden h-100"
                                  href="{{ route('website.comptabilitie') }}">
-                                 <img class="img-fluid" src="img/accountant-work.jpg" alt="" />
+                                 <img class="img-fluid h-100" style="height: 100%" src="img/accountant-work.jpg"
+                                     alt="" />
                                  <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                                      style="margin: 1px">
                                      <h5 class="m-0">Formation Comptabilité Gestion</h5>

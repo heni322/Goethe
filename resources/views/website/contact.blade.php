@@ -62,8 +62,10 @@
                         </div>
                         <div class="ms-3">
                             <h5 class="text-primary">Email</h5>
-                            <p class="mb-0">info@foursatouk-ila-allemagne.com</p>
+                            <p class="mb-0">info@foursatouk-ila-allemagne.com <span
+                                    class="text-primary">/</span>goetheacademie@gmail.com </p>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 wow fadeInUp" data-wow-delay="0.5s">

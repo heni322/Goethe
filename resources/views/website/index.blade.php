@@ -234,7 +234,7 @@
                 <div class="row g-3">
                     <div class="col-lg-6 col-md-12 wow zoomIn" data-wow-delay="0.1s">
                         <a class="position-relative d-block overflow-hidden" href="">
-                            <img class="img-fluid" src="img/formation.jpg" alt="" />
+                            <img class="img-fluid" src="img/lifestyle-people-office.jpg" alt="" />
                         </a>
                     </div>
                     <div class="col-lg-6 col-md-12">
@@ -402,7 +402,8 @@
                     </div>
                 </div>
                 <div class="testimonial-item text-center wow">
-                    <img src="img/techniciens.jpg" style="height: 534px" />
+                    <img src="img/technician-examining-computer-motherboard-with-digital-multimeter.jpg"
+                        style="height: 534px" />
                     <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
                         style="background: rgba(24, 29, 56, 0.2)">
                         <div class="container">
